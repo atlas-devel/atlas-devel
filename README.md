@@ -13,7 +13,7 @@ I’m currently expanding my skills into **TypeScript**, **Next.js**, **React Na
 - Tailwind CSS | Framer Motion | REST APIs  
 
 **Currently Learning**  
-- TypeScript | Next.js | React Native | Java  
+- TypeScript | Next.js | React Native | Python
 
 ---
 
