@@ -18,7 +18,7 @@ I'm currently expanding my skills into **TypeScript**, **Next.js**, **React Nati
 ## GitHub Statistics  
 ![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atlas-devel&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atlas-devel&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atlas-devel&theme=default)  
+
 
 ---
 
