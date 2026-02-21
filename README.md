@@ -10,9 +10,9 @@
 
 </div>
 
----
 
-## 👨‍💻 About Me
+
+## About Me
 
 I'm a full-stack developer and AI engineer passionate about building modern, responsive, and intelligent applications. My work spans the **MERN** and **PERN** stacks, crafted with **TypeScript**, styled with **Tailwind CSS**, and brought to life with **Framer Motion**.
 
@@ -20,9 +20,9 @@ I've deepened my expertise in **AI engineering** — including building LLM-powe
 
 > *"Build things that matter. Ship fast. Iterate smarter."*
 
----
 
-## 🛠️ Tech Stack
+
+## Tech Stack
 
 ### Languages & Core
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -53,9 +53,9 @@ I've deepened my expertise in **AI engineering** — including building LLM-powe
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
 
-## 🧠 What I'm Working With
+
+## What I'm Working With
 
 ```
 MERN Stack  →  MongoDB · Express · React · Node.js
@@ -64,7 +64,7 @@ AI Layer    →  LLM APIs · RAG · Agents · Embeddings
 Type-Safe   →  TypeScript across the full stack
 ```
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -78,14 +78,14 @@ Type-Safe   →  TypeScript across the full stack
 
 </div>
 
----
 
-## 🚀 Currently Exploring
+
+## Currently Exploring
 
 - 🤖 Advanced AI agent architectures and multi-step reasoning
 - 🧪 End-to-end testing and CI/CD pipelines
 
----
+
 
 ## 📬 Let's Connect
 
