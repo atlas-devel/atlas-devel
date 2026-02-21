@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Leon 👋
+# Hey, I'm Leon 
 
 ### Full-Stack Developer · AI Engineer · Problem Solver
 
@@ -31,14 +31,13 @@ I've deepened my expertise in **AI engineering** — including building LLM-powe
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 
 ### Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -53,7 +52,6 @@ I've deepened my expertise in **AI engineering** — including building LLM-powe
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -85,8 +83,6 @@ Type-Safe   →  TypeScript across the full stack
 ## 🚀 Currently Exploring
 
 - 🤖 Advanced AI agent architectures and multi-step reasoning
-- 📱 React Native for cross-platform mobile apps
-- ☕ Java for scalable backend systems
 - 🧪 End-to-end testing and CI/CD pipelines
 
 ---
