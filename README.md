@@ -2,7 +2,7 @@
 
 # Hey, I'm Leon 
 
-### Full-Stack Developer · AI Engineer · Problem Solver
+### Full-Stack Developer · AI Engineer · CI/CD (GitHub Actions) · Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-atlas--devel.dev-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-2-rkft.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Francois%20Leon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irakarama-jean-francois-leon-070831278)
