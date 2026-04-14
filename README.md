@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -22,7 +22,7 @@ I enjoy solving hard problems, learning continuously, and shipping clean, mainta
 
 > *"Build things that matter. Ship fast. Iterate smarter."*
 
----
+
 
 ## Tech Stack
 
@@ -38,27 +38,27 @@ I enjoy solving hard problems, learning continuously, and shipping clean, mainta
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
----
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
----
+
 
 ### Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
----
+
 
 ### AI Engineering
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)
 
----
+
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -66,7 +66,6 @@ I enjoy solving hard problems, learning continuously, and shipping clean, mainta
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-4CAF50?style=flat-square&logo=github&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
 
 ## What I'm Working With
 
@@ -77,7 +76,7 @@ DevOps → CI/CD Pipelines with GitHub Actions
 Type-Safe → TypeScript across the full stack
 
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -91,7 +90,7 @@ Type-Safe → TypeScript across the full stack
 
 </div>
 
----
+
 
 ## Currently Exploring
 
@@ -99,7 +98,7 @@ Type-Safe → TypeScript across the full stack
 - ⚙️ Scalable backend systems & system design
 - 🧪 End-to-end testing and CI/CD automation pipelines
 
----
+
 
 ## 📬 Let's Connect
 
