@@ -10,17 +10,19 @@
 
 </div>
 
-
+---
 
 ## About Me
 
-I'm a full-stack developer and AI engineer passionate about building modern, responsive, and intelligent applications. My work spans the **MERN** and **PERN** stacks, crafted with **TypeScript**, styled with **Tailwind CSS**, and brought to life with **Framer Motion**.
+I'm a full-stack developer and AI engineer passionate about building modern, responsive, and intelligent applications. My work spans the **MERN** and **PERN** stacks, crafted with **TypeScript**, styled with **Tailwind CSS**, and enhanced with **CI/CD pipelines using GitHub Actions**.
 
-I've deepened my expertise in **AI engineering** — including building LLM-powered apps, working with AI APIs, prompt engineering, and integrating AI into real-world products. I enjoy solving hard problems, learning continuously, and shipping clean, maintainable solutions.
+I’ve also deepened my expertise in **AI engineering**, including building LLM-powered apps, working with AI APIs, prompt engineering, and integrating AI into real-world products.
+
+I enjoy solving hard problems, learning continuously, and shipping clean, maintainable solutions.
 
 > *"Build things that matter. Ship fast. Iterate smarter."*
 
-
+---
 
 ## Tech Stack
 
@@ -29,42 +31,53 @@ I've deepened my expertise in **AI engineering** — including building LLM-powe
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+---
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
+---
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
+---
 
 ### Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
+---
+
 ### AI Engineering
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)
 
+---
+
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-4CAF50?style=flat-square&logo=github&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
+---
 
 ## What I'm Working With
 
-```
-MERN Stack  →  MongoDB · Express · React · Node.js
-PERN Stack  →  PostgreSQL · Express · React · Node.js
-AI Layer    →  LLM APIs · RAG · Agents · Embeddings
-Type-Safe   →  TypeScript across the full stack
-```
+MERN Stack → MongoDB · Express · React · Node.js
+PERN Stack → PostgreSQL · Express · React · Node.js
+AI Layer → LLM APIs · RAG · Agents · Embeddings
+DevOps → CI/CD Pipelines with GitHub Actions
+Type-Safe → TypeScript across the full stack
 
 
+---
 
 ## 📊 GitHub Stats
 
@@ -78,14 +91,15 @@ Type-Safe   →  TypeScript across the full stack
 
 </div>
 
-
+---
 
 ## Currently Exploring
 
 - 🤖 Advanced AI agent architectures and multi-step reasoning
-- 🧪 End-to-end testing and CI/CD pipelines
+- ⚙️ Scalable backend systems & system design
+- 🧪 End-to-end testing and CI/CD automation pipelines
 
-
+---
 
 ## 📬 Let's Connect
 
