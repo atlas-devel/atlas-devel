@@ -2,7 +2,7 @@
 
 # Hey, I'm Leon
 
-### Software Engineer · AI Engineer · Co-Founder at 9call · Penetration Testing Enthusiast
+### Software Engineer · AI Engineer · Problem Solver · Co-Founder at 9call · Penetration Testing Enthusiast
 
 <p>
   <em>I invest in who I'm becoming, so I can build what I once wished existed.</em>
@@ -24,15 +24,17 @@
 
 ## About Me
 
-I'm a **Software Engineer** focused on building practical, reliable, and user-oriented software.
+I'm a **Software Engineer and problem solver** who enjoys turning real-world problems into practical software solutions.
 
-My work spans **full-stack web development, backend engineering, AI-powered applications, and software automation**. I primarily work with JavaScript and TypeScript ecosystems while also developing with **Go** for backend and systems-oriented applications.
+My work spans **full-stack development, backend engineering, AI-powered applications, and software automation**. I work primarily with JavaScript and TypeScript ecosystems while also developing with **Go** for backend and systems-oriented applications.
 
-I'm interested in the intersection of **software engineering, artificial intelligence, and cybersecurity**, with a particular interest in penetration testing and understanding how systems can be built and secured.
+I care about more than just writing code. I enjoy understanding a problem from the ground up, designing a solution around the people who experience it, and building software that can make that experience simpler and more effective.
 
-I'm also a **Co-Founder at 9call**, where I collaborate with a team to turn ideas into software products and technology solutions.
+One area I'm particularly interested in is solving problems within the **rental and property management space**, where I've been working on technology aimed at making interactions between landlords and renters more structured, transparent, and accessible.
 
-I value continuous improvement, thoughtful engineering, and building software with a purpose.
+I'm also a **Co-Founder at 9call**, collaborating with a team to transform ideas into software products and technology solutions.
+
+Alongside software engineering, I'm interested in **cybersecurity and penetration testing**, with a focus on understanding how systems work and how they can be better secured.
 
 > **I invest in who I'm becoming, so I can build what I once wished existed.**
 
@@ -83,19 +85,22 @@ I value continuous improvement, thoughtful engineering, and building software wi
 
 ---
 
-## Areas of Work
+## What I Care About
+
+**Problem Solving**
+Understanding real problems and turning them into practical, usable solutions.
 
 **Software Engineering**
-Designing and developing web applications, backend services, APIs, and software solutions.
+Building maintainable applications, backend services, APIs, and systems.
 
 **AI Engineering**
-Integrating AI capabilities into applications through LLM APIs, retrieval systems, embeddings, and related technologies.
-
-**Cybersecurity**
-Interested in penetration testing, application security, networking, and understanding how software and systems can be secured.
+Using AI to make software more capable, useful, and accessible.
 
 **Product Development**
-Co-founding and collaborating on software projects, from ideas and architecture to implementation.
+Taking ideas beyond code and turning them into products that address real needs.
+
+**Cybersecurity**
+Exploring penetration testing, application security, networking, and secure system design.
 
 ---
 
