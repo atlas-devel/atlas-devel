@@ -1,10 +1,28 @@
+<!--
+  GitHub Profile README
+  Replace the banner URL below with your own animated
+  green-code/network GIF when you have one.
+-->
+
 <div align="center">
+
+<img src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_ANIMATED_BANNER.gif" width="100%" alt="Animated futuristic code and network banner">
+
+<br>
 
 # Hey, I'm Leon
 
-### Full-Stack Developer · AI Engineer · Go Developer · CI/CD · Problem Solver
+### Full-Stack Developer · AI Engineer · Go Developer · Problem Solver
+
+<p>
+  <em>I invest in who I'm becoming, so I can build what I once wished existed.</em>
+</p>
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atlas-devel\&label=PROFILE%20VIEWS\&color=00ff88\&style=for-the-badge)
+
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-atlas--devel.dev-6C63FF?style=for-the-badge\&logo=firefox\&logoColor=white)](https://portfolio-2-rkft.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Francois%20Leon-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/irakarama-jean-francois-leon-070831278)
@@ -18,19 +36,21 @@
 
 I'm a **full-stack developer and AI engineer** focused on building modern, scalable, and intelligent applications.
 
-My development work spans the **MERN** and **PERN** stacks, with **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and **Node.js**. I'm also actively developing with **Go (Golang)**, particularly for backend services, CLI applications, networking tools, and systems-oriented projects.
+My development work spans the **MERN** and **PERN** stacks, with **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and **Node.js**.
 
-I've also been deepening my expertise in **AI engineering**, including LLM-powered applications, AI APIs, prompt engineering, RAG, embeddings, and integrating AI capabilities into real-world products.
+I'm also developing with **Go (Golang)**, exploring backend services, CLI applications, networking tools, and systems-oriented software.
 
-I enjoy solving difficult problems, exploring new technologies, and turning ideas into working software.
+On the AI side, I'm exploring **LLM-powered applications, RAG, embeddings, AI APIs, agents, and prompt engineering**, with a focus on turning these technologies into useful real-world products.
 
-> **Build things that matter. Ship fast. Iterate smarter.**
+I enjoy difficult problems, learning by building, and turning ideas into software that can actually be used.
+
+> **I invest in who I'm becoming, so I can build what I once wished existed.**
 
 ---
 
 ## Tech Stack
 
-### Languages & Core
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
@@ -53,14 +73,14 @@ I enjoy solving difficult problems, exploring new technologies, and turning idea
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
 ### Databases & ORM
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
 
 ---
@@ -75,29 +95,68 @@ I enjoy solving difficult problems, exploring new technologies, and turning idea
 
 ---
 
-### Tools & DevOps
+### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-00C853?style=flat-square\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-00C853?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
-## What I'm Working With
+## What I Build
 
-**Full-Stack** → React · Next.js · Node.js · Express · TypeScript
+```text
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+└── Tailwind CSS
 
-**Go Development** → CLI tools · Backend services · Networking · Systems programming
+Backend
+├── Node.js
+├── Express
+├── Go
+└── REST APIs
 
-**Databases** → PostgreSQL · MongoDB · Prisma
+Data
+├── PostgreSQL
+├── MongoDB
+└── Prisma
 
-**AI Layer** → LLM APIs · RAG · Agents · Embeddings
+AI
+├── LLM APIs
+├── RAG
+├── Embeddings
+└── AI Agents
 
-**DevOps** → Git · GitHub Actions · CI/CD · Docker
+DevOps
+├── Git
+├── GitHub Actions
+├── CI/CD
+└── Docker
+```
 
-**Architecture** → REST APIs · Authentication · Scalable backend systems
+---
+
+## Current Focus
+
+**Go**
+
+Building CLI tools, backend services, networking applications, and systems-oriented software.
+
+**AI Engineering**
+
+Exploring AI agents, RAG systems, embeddings, LLM APIs, and practical AI integrations.
+
+**Backend & System Design**
+
+Learning how to design reliable, scalable services and understand what happens underneath the abstractions.
+
+**DevOps**
+
+Building automated development and deployment workflows with GitHub Actions and containerization.
 
 ---
 
@@ -105,11 +164,23 @@ I enjoy solving difficult problems, exploring new technologies, and turning idea
 
 <div align="center">
 
-![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atlas-devel\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00FF88\&icon_color=00FF88\&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=atlas-devel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff" height="180">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atlas-devel\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=00FF88\&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlas-devel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff" height="180">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=atlas-devel\&theme=tokyonight\&hide_border=true\&background=0D1117\&stroke=00FF88\&ring=00FF88\&fire=00FF88\&currStreakLabel=ffffff\&sideLabels=ffffff\&dates=888888)
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=atlas-devel&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888">
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atlas-devel&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%">
 
 </div>
 
@@ -117,10 +188,14 @@ I enjoy solving difficult problems, exploring new technologies, and turning idea
 
 ## Currently Exploring
 
-* Advanced AI agent architectures and multi-step reasoning
 * Go for backend, CLI, networking, and systems development
-* Scalable backend architecture and system design
-* End-to-end testing and CI/CD automation
+* Advanced AI agent architectures
+* RAG and semantic search
+* Embeddings and vector databases
+* Scalable backend architecture
+* System design
+* End-to-end testing
+* CI/CD automation
 * Production-ready AI integrations
 
 ---
@@ -129,16 +204,12 @@ I enjoy solving difficult problems, exploring new technologies, and turning idea
 
 <div align="center">
 
-| Platform  | Link                                                                                     |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Portfolio | [atlas-devel.dev](https://portfolio-2-rkft.onrender.com/)                                |
-| LinkedIn  | [Jean Francois Leon](https://www.linkedin.com/in/irakarama-jean-francois-leon-070831278) |
-| GitHub    | [@atlas-devel](https://github.com/atlas-devel)                                           |
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge\&logo=firefox\&logoColor=white)](https://portfolio-2-rkft.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/irakarama-jean-francois-leon-070831278)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/atlas-devel)
 
-</div>
+<br>
 
-<div align="center">
-
-### `</> Building. Learning. Shipping. <\>`
+### `</> Still becoming. Still building. </>`
 
 </div>
