@@ -2,7 +2,7 @@
 
 # Hey, I'm Leon
 
-### Software Engineer · AI Engineer · Problem Solver · Co-Founder · Penetration Testing Enthusiast
+### Software Developer · Problem Solver · Co-Founder · Penetration Testing Enthusiast
 
 <p>
   <em>I invest in who I'm becoming, so I can build what I once wished existed.</em>
